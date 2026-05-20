@@ -76,3 +76,27 @@ comment: |-
 IRYjq33VVHaDDLGrju4OCMa3xKEtiEZL5QdQ6HQqkYpIgVcqhbpZEXdyOlrQSSrGGUHJWr982QiXaWPchoVDCQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2026-05-20T19:17:05.118398331+01:00
+from:
+  id-type: crev
+  id: 1GRJTcIbJP_AF5uDxLGECZnlw3HSKO--UZBAFpmeSEs
+package:
+  source: https://crates.io
+  name: textwrap
+  version: 0.16.2
+  revision: 4770e55af425a0cffb9ad8496599d2a1a4f5ed14
+  digest: J2hvcQufmzyU-VNoJBjIpd6WuTr5g7F-rPQj21mIoKI
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  quick check for basic security flaws, but nothing malicious found
+  still possible to crash or have issues with dependencies
+----- SIGN CREV PROOF -----
+SqIyWitc-Yc1TFWfH05C-c0bRB-KAXvqhkL6A7gfiIRtF4CBK9Yg5o9ECIyA2g2QFCstp1WxzKXpzjHH0e6fAg
+----- END CREV PROOF -----
+
