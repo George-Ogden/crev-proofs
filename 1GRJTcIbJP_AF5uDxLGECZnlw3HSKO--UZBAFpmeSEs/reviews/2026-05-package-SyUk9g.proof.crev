@@ -52,3 +52,27 @@ comment: |-
 9vr8L8wmnbJ7YSPJ0cvkIuoVm1ByEq2zuIFbz4KfOrThdsDvKZ4G-5wIgfRH1O18bmY75cEo34fIo15bTRpuCg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2026-05-20T19:16:44.899429966+01:00
+from:
+  id-type: crev
+  id: 1GRJTcIbJP_AF5uDxLGECZnlw3HSKO--UZBAFpmeSEs
+package:
+  source: https://crates.io
+  name: clap
+  version: 4.6.1
+  revision: ac5fda6a799e4c640d671edd1111d4a5e723dc1a
+  digest: T7b__TBwfEzWvz1uVOB_pDfndTJEZsHET6zdLC9sxFs
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: |-
+  Mostly contains examples with very little actual source code
+  These all seem harmless and mostly just print new information
+----- SIGN CREV PROOF -----
+IRYjq33VVHaDDLGrju4OCMa3xKEtiEZL5QdQ6HQqkYpIgVcqhbpZEXdyOlrQSSrGGUHJWr982QiXaWPchoVDCQ
+----- END CREV PROOF -----
+
