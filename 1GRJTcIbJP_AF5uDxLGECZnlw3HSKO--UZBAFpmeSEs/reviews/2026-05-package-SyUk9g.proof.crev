@@ -100,3 +100,26 @@ comment: |-
 SqIyWitc-Yc1TFWfH05C-c0bRB-KAXvqhkL6A7gfiIRtF4CBK9Yg5o9ECIyA2g2QFCstp1WxzKXpzjHH0e6fAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2026-05-21T09:34:17.195718623+01:00
+from:
+  id-type: crev
+  id: 1GRJTcIbJP_AF5uDxLGECZnlw3HSKO--UZBAFpmeSEs
+package:
+  source: https://crates.io
+  name: indicatif
+  version: 0.18.4
+  revision: 4de2f604c3f5af5556db0a1d15e296102879c8d9
+  digest: cR4CKjGfYMhwXj8UlrCsy21y8U97p9yZLZW27iyM2Zg
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  uses a range of ansi/unicode characters in the shell, but the danger seems to come from the user, not the library
+----- SIGN CREV PROOF -----
+IztZE-WCrZ9O6yeKvr5kBXnGjLwKDiKn5SF4hbE3zcXecjut1-yJe8eThMl96JziV0xiwjpXJYllNQMSPvCoCA
+----- END CREV PROOF -----
+
