@@ -123,3 +123,28 @@ comment: |-
 IztZE-WCrZ9O6yeKvr5kBXnGjLwKDiKn5SF4hbE3zcXecjut1-yJe8eThMl96JziV0xiwjpXJYllNQMSPvCoCA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2026-05-24T19:21:20.839167141+01:00
+from:
+  id-type: crev
+  id: 1GRJTcIbJP_AF5uDxLGECZnlw3HSKO--UZBAFpmeSEs
+package:
+  source: https://crates.io
+  name: weak-table
+  version: 0.3.2
+  revision: c4ac207b8f266ff3becd123f693f07536b97d088
+  digest: b3wNQWSemO1v48SWmDffX-5e4Ci_H0gfgX3nVL4UXJ8
+review:
+  thoroughness: none
+  understanding: low
+  rating: neutral
+flags:
+  unmaintained: true
+comment: |-
+  This library is unmaintained and using out of date dependencies.
+----- SIGN CREV PROOF -----
+bMZICx0vS-t9u4L3PJ0cYVBj_zTPPSrdgFv70xMzLYq_PFjsQLst57lwW7swKPWHOFR14nlF8adOLAjUDLM9Ag
+----- END CREV PROOF -----
+
