@@ -148,3 +148,27 @@ comment: |-
 bMZICx0vS-t9u4L3PJ0cYVBj_zTPPSrdgFv70xMzLYq_PFjsQLst57lwW7swKPWHOFR14nlF8adOLAjUDLM9Ag
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2026-05-25T17:28:15.534978442+01:00
+from:
+  id-type: crev
+  id: 1GRJTcIbJP_AF5uDxLGECZnlw3HSKO--UZBAFpmeSEs
+package:
+  source: https://crates.io
+  name: intervallum
+  version: 1.4.4
+  revision: cdd2d37cf07367c3ccc6ed55743f1bd72e8f8b50
+  digest: w4jeiRTPaQsnYedYkW3U80nqVEZhhWoaOdwLXCeZqcw
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  Contributed to this crate and it's high quality.
+  It has some dangers with unchecked overflow.
+----- SIGN CREV PROOF -----
+L2mHvLjkZQJBuMBoqI8Fa1oxya-8z4qVpGeNd93oLoAJrw79eU-y7w9C8kKP0a4faWgs4eqenq4Th5luCZaeAw
+----- END CREV PROOF -----
+
