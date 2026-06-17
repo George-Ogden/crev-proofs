@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2026-06-17T10:11:21.364001982+01:00
+from:
+  id-type: crev
+  id: 1GRJTcIbJP_AF5uDxLGECZnlw3HSKO--UZBAFpmeSEs
+package:
+  source: https://crates.io
+  name: by_address
+  version: 1.2.1
+  revision: bb921a29ea2fc1ee30a4dac9ff6d97c6730b5c7f
+  digest: ZwDf90L3w1X_lUJcCHrdD40ugUqTuTKrCl0FfValW_s
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Very simple library with one file of source code.
+  The GitHub repo hasn't had much activity, and there are a few issues.
+----- SIGN CREV PROOF -----
+ZzOoLX9WUrQvymtXOjLk_isSLzDljzowKkKJ57K6bSu2Pu-t1-lVG8vNpayHyc8Yrfqf6HYvW1nwSdwoheGhDg
+----- END CREV PROOF -----
+
