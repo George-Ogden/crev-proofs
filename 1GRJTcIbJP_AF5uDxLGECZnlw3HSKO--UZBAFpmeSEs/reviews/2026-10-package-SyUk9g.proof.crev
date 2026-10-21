@@ -1,0 +1,25 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2026-10-21T15:06:27.678993103+01:00
+from:
+  id-type: crev
+  id: 1GRJTcIbJP_AF5uDxLGECZnlw3HSKO--UZBAFpmeSEs
+package:
+  source: https://crates.io
+  name: copse
+  version: 0.4.1
+  revision: e782bca92660e8e8a3bc9f3d06a074a3408e1746
+  digest: Pwm-Bsl4r_QMcrYLJoUEUlhr74J6c9BvTZQIfjEo9EU
+review:
+  thoroughness: low
+  understanding: medium
+  rating: negative
+flags:
+  unmaintained: true
+comment: |-
+  Does not compile with stable rust
+----- SIGN CREV PROOF -----
+0q_srs1w800Z6F1_ghJzf4mLMShdKtxPwm9P9jn2Kv9Kx4Dmas_jrdbhiu-9hTa3GyKU10JgAxfZ2uN_5bewDQ
+----- END CREV PROOF -----
+
